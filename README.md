@@ -14,7 +14,10 @@ _These clients possess some special modules, or advanced features_
 - **AbHack**: [Download abhack 0.0.1(Prefix is .)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/ab-Hack-1128.jar)
 - **LavaHack**: [Dowload LavaHack 1.4(RSHIFT)](https://github.com/Smug2f/Fast-Client-Archive/releases/download/v1.0.0/LavaHack-Public-b1.3-release.jar) / [Lavahack Repo](https://github.com/TheKisDevs/LavaHack-Forge) (Lavahack can also be a strong client)
 - **[!] Bloody Crack**: [Bloody Crack (1.20.1)](https://github.com/PlutoSolutions/BLOODYCLIENT1.0.0) **Use Fabric 0.14.21 on version 1.20.1 to launch this client!**
-  
+- **Oyvey**: [Download OyVey 0.0.3](https://github.com/AGENTISNUM1/Oyvey-clean) (Good CrystalAura)
+- **[!] Konas Crack**: [Download Konas 0.8](https://github.com/eralp232/KonasClient/releases/tag/0.8)
+- **Cosmos**: [Download Cosmos 1.4.0](https://github.com/momentumdevelopment/cosmos/releases/tag/1.4.0) (Good CrystalAura)
+
 ## Strong Clients
 _These clients are to be used as a base, and most can be used alone without the need for other clients/mods_
 - **Trollhack**: [Download Trollhack 1.3.1 dev(Y)](https://cdn.discordapp.com/attachments/1084352566592294912/1172241225324171375/TrollHack-1.3.1-nightly-ee9b436.jar?ex=655f99b7&is=654d24b7&hm=5a4d10d5f6652076174cdbdd1020e03fbad444263ae127d9735fdcd1d4146f5c&) / [Trollhack Repo](https://github.com/Luna5ama/TrollHack)
@@ -27,6 +30,7 @@ _These clients are to be used as a base, and most can be used alone without the 
 - **Thunderhack+**: [Thunderhack+ Repo](https://github.com/Pan4ur/ThunderHackPlus)
 - **[!] Boze Crack**: [Download Boze 1.2 (1.20.1)(RSHIFT)](https://crystalpvp.ru/bozeupdate/bozecrack.zip) **Use Fabric 0.14.21 on version 1.20.1 to launch this client!**
 - **Meteor**: [Meteor Website (Newest Minecraft Version)](https://meteorclient.com) / [Meteor Archive](https://github.com/ManInMyVan/meteor-archive)
+- **[!] Pyro Crack**: [Download Pyro 2.1.1 (v2)](https://github.com/PlutoSolutions/Pyro/releases/tag/2.1.1_2)
 
 ## Clients Exploring New Aspect 
 _The clients here explore a new aspect, most revolving around one or two modules_
@@ -37,6 +41,9 @@ _The clients here explore a new aspect, most revolving around one or two modules
 - **Wurst+4**: [Download Wurst+4 0.0.1(RSHIFT)](https://github.com/Smug2f/Stuff-for-archive/releases/download/stay/wurst-plus-four-0.0.1-release.jar)
 - **Experium**: [Dowload Experium 1.8.7(RSHIFT)](https://github.com/3000IQPlay/Experium/releases/download/1.8.7/Experium.gang.jar)
 - **OctoHack**: [Dowload OctoHack 0.1.7(Prefix is .)](https://github.com/Simple-Github-ORG/OctoHack-SRC/releases/download/idk/octohack-0.1.7-release.jar) (Can also be strong)
+- **Clean Phobos**: [Download Phobos 1.9.0](https://github.com/eralp232/PhobosClient-Archive/releases/tag/1.9.0) / [Phobos 1.7.2](https://github.com/eralp232/PhobosClient-Archive/releases/tag/1.7.2) / [Phobos 1.5.4](https://github.com/eralp232/PhobosClient-Archive/releases/tag/1.5.4)
+- **Wurst+3**: [Download Wurst+3 0.7.0](https://github.com/WurstPlus/wurst-plus-three/releases/tag/0.7.0) (Old client)
+- **Ares**: [Download Ares-Client (keybind is `;`)](https://aresclient.org/download)
   
 ## Japanese client
 _These clients are made for japanese metas, and most possess a piston push/piston aura. Several of these clients are ratted, so be carefull when running_
